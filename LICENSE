@@ -1,0 +1,29 @@
+Creative Commons Attribution-ShareAlike 4.0 International
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+The Spanish Forge phrase data in this repository (releases/phrases.json.zip and
+forms-table/) is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International license.
+
+The one exception is lemma-table/, which is a derivative database licensed under
+the Open Database License v1.0. See lemma-table/LICENSE.
+
+License text:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Human-readable summary:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution:
+
+  Frequency list derived from hermitdave/FrequencyWords (CC BY-SA 4.0), built
+  from the OpenSubtitles 2018 corpus via OPUS
+  https://github.com/hermitdave/FrequencyWords
+
+  Inflection tables derived from English Wiktionary (CC BY-SA 4.0) via
+  wiktextract / kaikki.org
+  https://kaikki.org  https://github.com/tatuylonen/wiktextract
+
+If you redistribute this data, or a work adapted from it, keep the attribution
+above and license your version under CC BY-SA 4.0 or a compatible license.

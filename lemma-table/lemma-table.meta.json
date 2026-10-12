@@ -1,0 +1,22 @@
+{
+  "generatedBy": "apps/data/scripts/compile-lemma-table.ts",
+  "sourceUrl": "https://raw.githubusercontent.com/michmech/lemmatization-lists/master/lemmatization-es.txt",
+  "sourceAttribution": "michmech/lemmatization-lists (Michal Boleslav Měchura)",
+  "licence": "ODbL-1.0",
+  "retrievedAt": "2026-09-06",
+  "sourceSha256": "6d3638c27bd9f6ee326e69c8ea7d04e9be589b1a8aaa376d307e5a9db6e94129",
+  "sourceBytes": 11141155,
+  "sourceRows": 497560,
+  "skipped": {
+    "malformed": 0,
+    "multiWord": 0,
+    "identity": 14,
+    "skippedPairs": 3
+  },
+  "formCount": 436278,
+  "lemmaCount": 67735,
+  "verbLemmaCount": 7647,
+  "formLemmaPairs": 497543,
+  "assetBytesGzip": 1340906,
+  "assetBytesRaw": 9334619
+}

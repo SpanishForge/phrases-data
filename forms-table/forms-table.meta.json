@@ -1,0 +1,424 @@
+{
+  "generatedBy": "apps/data/scripts/compile-forms-table.ts",
+  "sourceUrl": "https://kaikki.org/dictionary/Spanish/kaikki.org-dictionary-Spanish.jsonl.gz",
+  "sourceAttribution": "Inflection tables derived from English Wiktionary (CC BY-SA 4.0) via wiktextract / kaikki.org",
+  "licence": "CC BY-SA 4.0",
+  "retrievedAt": "2026-09-06",
+  "sourceSha256": "192fa8e4cd7cc89b09ec83352e560d36c9035bca2e973fd09f8627a6ca152e71",
+  "sourceBytes": 90979263,
+  "sourceLines": 809603,
+  "unimorph": {
+    "url": "https://raw.githubusercontent.com/unimorph/spa/master/spa",
+    "sha256": "7a165d4b44eb078d23964f3eee3813f5140c5df0ffab0143c806c562e67f8771",
+    "bytes": 50335761,
+    "lines": 1196245
+  },
+  "counts": {
+    "lemmas": {
+      "verb": 10447,
+      "noun": 29029,
+      "adjective": 12042
+    },
+    "rows": {
+      "verb": 522057,
+      "noun": 57941,
+      "adjective": 40192
+    },
+    "bySource": {
+      "wiktionary": 370960,
+      "rule": 249230
+    },
+    "excludedByInclusionFilter": 728303,
+    "pronominalDerived": 4541,
+    "pronominalWithoutBase": 0,
+    "ruleFilledNouns": 33,
+    "ruleFilledAdjectives": 5,
+    "droppedByOrthographyGate": 0,
+    "droppedByLemmaGate": 537,
+    "unmappedTagSets": [],
+    "multiPluralNouns": 262,
+    "wiktionaryFormsUnknownToLemmaTable": 8198
+  },
+  "coverage": {
+    "scope": "published headwords in the export, single-word only",
+    "multiWordHeadwordsSkipped": 2,
+    "perPos": {
+      "verb": {
+        "total": 964,
+        "complete": 962,
+        "partial": 1,
+        "missing": 1
+      },
+      "noun": {
+        "total": 2665,
+        "complete": 2661,
+        "partial": 4,
+        "missing": 0
+      },
+      "adjective": {
+        "total": 721,
+        "complete": 719,
+        "partial": 2,
+        "missing": 0
+      }
+    },
+    "residueCount": 8,
+    "residuePath": null,
+    "residue": [
+      {
+        "headword": "tercer",
+        "pos": "adjective",
+        "status": "partial",
+        "missingSlots": [
+          "m.pl",
+          "f.pl"
+        ]
+      },
+      {
+        "headword": "golf",
+        "pos": "noun",
+        "status": "partial",
+        "missingSlots": [
+          "pl"
+        ]
+      },
+      {
+        "headword": "darse",
+        "pos": "verb",
+        "status": "partial",
+        "missingSlots": [
+          "imp.2sg"
+        ]
+      },
+      {
+        "headword": "porno",
+        "pos": "noun",
+        "status": "partial",
+        "missingSlots": [
+          "pl"
+        ]
+      },
+      {
+        "headword": "desarrollado",
+        "pos": "adjective",
+        "status": "partial",
+        "missingSlots": [
+          "f.sg",
+          "f.pl"
+        ]
+      },
+      {
+        "headword": "blues",
+        "pos": "noun",
+        "status": "partial",
+        "missingSlots": [
+          "pl"
+        ]
+      },
+      {
+        "headword": "entrometer",
+        "pos": "verb",
+        "status": "missing",
+        "missingSlots": [
+          "inf",
+          "ger",
+          "ptcp",
+          "ind.pres.1sg",
+          "ind.pres.2sg",
+          "ind.pres.3sg",
+          "ind.pres.1pl",
+          "ind.pres.2pl",
+          "ind.pres.3pl",
+          "ind.impf.1sg",
+          "ind.impf.2sg",
+          "ind.impf.3sg",
+          "ind.impf.1pl",
+          "ind.impf.2pl",
+          "ind.impf.3pl",
+          "ind.pret.1sg",
+          "ind.pret.2sg",
+          "ind.pret.3sg",
+          "ind.pret.1pl",
+          "ind.pret.2pl",
+          "ind.pret.3pl",
+          "ind.fut.1sg",
+          "ind.fut.2sg",
+          "ind.fut.3sg",
+          "ind.fut.1pl",
+          "ind.fut.2pl",
+          "ind.fut.3pl",
+          "ind.cond.1sg",
+          "ind.cond.2sg",
+          "ind.cond.3sg",
+          "ind.cond.1pl",
+          "ind.cond.2pl",
+          "ind.cond.3pl",
+          "sub.pres.1sg",
+          "sub.pres.2sg",
+          "sub.pres.3sg",
+          "sub.pres.1pl",
+          "sub.pres.2pl",
+          "sub.pres.3pl",
+          "sub.impf-ra.1sg",
+          "sub.impf-ra.2sg",
+          "sub.impf-ra.3sg",
+          "sub.impf-ra.1pl",
+          "sub.impf-ra.2pl",
+          "sub.impf-ra.3pl",
+          "sub.impf-se.1sg",
+          "sub.impf-se.2sg",
+          "sub.impf-se.3sg",
+          "sub.impf-se.1pl",
+          "sub.impf-se.2pl",
+          "sub.impf-se.3pl",
+          "imp.2sg",
+          "imp.3sg",
+          "imp.1pl",
+          "imp.2pl",
+          "imp.3pl"
+        ]
+      },
+      {
+        "headword": "sed",
+        "pos": "noun",
+        "status": "partial",
+        "missingSlots": [
+          "pl"
+        ]
+      }
+    ]
+  },
+  "unimorphAgreement": {
+    "perPos": {
+      "verb": {
+        "compared": 275030,
+        "agree": 274999,
+        "disagree": 31
+      },
+      "noun": {
+        "compared": 25498,
+        "agree": 25448,
+        "disagree": 50
+      },
+      "adjective": {
+        "compared": 25480,
+        "agree": 25379,
+        "disagree": 101
+      }
+    },
+    "examples": [
+      {
+        "lemma": "rehundir",
+        "pos": "verb",
+        "slot": "ind.pres.1sg",
+        "ours": "rehúndo",
+        "unimorph": "rehundo"
+      },
+      {
+        "lemma": "rehundir",
+        "pos": "verb",
+        "slot": "ind.pres.2sg",
+        "ours": "rehúndes",
+        "unimorph": "rehundes"
+      },
+      {
+        "lemma": "rehundir",
+        "pos": "verb",
+        "slot": "ind.pres.3sg",
+        "ours": "rehúnde",
+        "unimorph": "rehunde"
+      },
+      {
+        "lemma": "rehundir",
+        "pos": "verb",
+        "slot": "ind.pres.3pl",
+        "ours": "rehúnden",
+        "unimorph": "rehunden"
+      },
+      {
+        "lemma": "rehundir",
+        "pos": "verb",
+        "slot": "sub.pres.1sg",
+        "ours": "rehúnda",
+        "unimorph": "rehunda"
+      },
+      {
+        "lemma": "rehundir",
+        "pos": "verb",
+        "slot": "sub.pres.2sg",
+        "ours": "rehúndas",
+        "unimorph": "rehundas"
+      },
+      {
+        "lemma": "rehundir",
+        "pos": "verb",
+        "slot": "sub.pres.3sg",
+        "ours": "rehúnda",
+        "unimorph": "rehunda"
+      },
+      {
+        "lemma": "rehundir",
+        "pos": "verb",
+        "slot": "sub.pres.3pl",
+        "ours": "rehúndan",
+        "unimorph": "rehundan"
+      },
+      {
+        "lemma": "rehundir",
+        "pos": "verb",
+        "slot": "imp.2sg",
+        "ours": "rehúnde",
+        "unimorph": "rehunde"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "inf",
+        "ours": "antojarse",
+        "unimorph": "antojar"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ger",
+        "ours": "antojándose",
+        "unimorph": "antojando"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.pres.3sg",
+        "ours": "se antoja",
+        "unimorph": "antoja"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.pres.3pl",
+        "ours": "se antojan",
+        "unimorph": "antojan"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.impf.3sg",
+        "ours": "se antojaba",
+        "unimorph": "antojaba"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.impf.3pl",
+        "ours": "se antojaban",
+        "unimorph": "antojaban"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.pret.3sg",
+        "ours": "se antojó",
+        "unimorph": "antojó"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.pret.3pl",
+        "ours": "se antojaron",
+        "unimorph": "antojaron"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.fut.3sg",
+        "ours": "se antojará",
+        "unimorph": "antojará"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.fut.3pl",
+        "ours": "se antojarán",
+        "unimorph": "antojarán"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.cond.3sg",
+        "ours": "se antojaría",
+        "unimorph": "antojaría"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "ind.cond.3pl",
+        "ours": "se antojarían",
+        "unimorph": "antojarían"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "sub.pres.3sg",
+        "ours": "se antoje",
+        "unimorph": "antoje"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "sub.pres.3pl",
+        "ours": "se antojen",
+        "unimorph": "antojen"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "sub.impf-ra.3sg",
+        "ours": "se antojara",
+        "unimorph": "antojara"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "sub.impf-ra.3pl",
+        "ours": "se antojaran",
+        "unimorph": "antojaran"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "sub.impf-se.3sg",
+        "ours": "se antojase",
+        "unimorph": "antojase"
+      },
+      {
+        "lemma": "antojar",
+        "pos": "verb",
+        "slot": "sub.impf-se.3pl",
+        "ours": "se antojasen",
+        "unimorph": "antojasen"
+      },
+      {
+        "lemma": "empedernir",
+        "pos": "verb",
+        "slot": "ind.pres.2sg",
+        "ours": "empedernes",
+        "unimorph": "empedernís"
+      },
+      {
+        "lemma": "empedernir",
+        "pos": "verb",
+        "slot": "imp.2sg",
+        "ours": "empederne",
+        "unimorph": "empederní"
+      },
+      {
+        "lemma": "preterir",
+        "pos": "verb",
+        "slot": "ind.pres.2sg",
+        "ours": "pretires",
+        "unimorph": "preterís"
+      }
+    ]
+  },
+  "assetBytesGzip": 2943860,
+  "assetBytesRaw": 30230026
+}
